@@ -24,13 +24,12 @@ The repository is organized by course week and follows the original course struc
 
 <pre>machine-learning-regression-classification/
 ├── Week 1/
-│   └── Labs/
 ├── Week 2/
-│   ├── Labs/
-│   └── Programming Assignments/
+│   ├── Assignments/
+│   └── Labs/
 ├── Week 3/
-│   ├── Labs/
-│   └── Programming Assignments/
+│   ├── Assignments/
+│   └── Labs/
 └── README.md
 </pre>
 
